@@ -10,22 +10,22 @@ this is my first repooooooooo
    <li>hacking</li>
 </ul>
 
- <h2>Simple Table</h2>
+<h2>Skills</h2>
 
 <table border="1">
   <tr>
-    <th>First Name</th>
-    <th>Last Name</th>
-    <th>Age</th>
+    <th>age</th>
+    <th>skills</th>
+    <th>exp</th>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>30</td>
+    <td>17</td>
+    <td>leaner</td>
+    <td>5 month</td>
   </tr>
   <tr>
-    <td>Jane</td>
-    <td>Smith</td>
-    <td>25</td>
+    <td>18</td>
+    <td>new</td>
+    <td>1 month</td>
   </tr>
 </table>
