@@ -9,7 +9,8 @@ this is my first repooooooooo
    <li>coding</li>
    <li>hacking</li>
 </ul>
-<h2>Simple Table</h2>
+
+ <h2>Simple Table</h2>
 
 <table border="1">
   <tr>
